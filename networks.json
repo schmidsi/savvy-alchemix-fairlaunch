@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "AlchemixERC20": {
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "startBlock": 11937199
+    }
+  }
+}
